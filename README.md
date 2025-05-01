@@ -8,7 +8,7 @@ import pandas as pd
 # Parâmetros de conexão
 dbname   = 'python'
 user     = 'postgres'
-password = 'noah'
+password = '*****'
 host     = 'localhost'
 port     = '5435' 
 
